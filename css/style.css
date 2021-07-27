@@ -1,0 +1,144 @@
+/*== Table Of Content:
+    1)  Global Rules
+    2) Header
+        2.1 Logo
+        2.2 Navbar
+    3)  Intro
+        3.1 bg-home
+        3.2 hero-box
+    4)  Services
+    5)  Service-features
+    6)  Portfolio
+        6.1 Title
+        6.2 nav
+        6.3 gallery
+    7)  About
+    8)  Statistics
+    9)  About-Us
+        9.1 Testimonials
+        9.2 Skills
+    10)  Quotes
+    11) Pricing
+    12) Subscribe
+    13) Contact
+    14) Footer
+====================*/
+
+/*===================
+    1) Global Rules
+=====================*/
+:root{
+    --clr-main:#00C7FC;
+    --clr-text:#A8A8A8;
+    --clr-bg-carousel:rgba(15,116,143,0.8);
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+ul{
+    list-style: none;
+}
+
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media (min-width: 768px) {
+    .container{
+        width: 750px;
+    }    
+}
+@media (min-width: 992px) {
+    .container{
+        width: 970px;
+    }    
+}
+@media (min-width: 1200px) {
+    .container{
+        width: 1170px;
+    }    
+}
+
+/*===================
+    2) Header
+=====================*/
+
+
+/*===================
+    3) Intro
+=====================*/
+
+/*===================
+    4) Services
+=====================*/
+
+
+/*===================
+    5) Service-features
+=====================*/
+
+
+/*===================
+    6) Portfolio
+=====================*/
+
+
+/*===================
+    7) About
+=====================*/
+
+
+/*===================
+    8) Statistics
+=====================*/
+
+
+/*===================
+    9) About-Us
+        9.1 Testimonials
+        9.2 Skills
+=====================*/
+
+
+/*===================
+    10) Quotes 
+=====================*/
+
+
+/*===================
+    11) Pricing
+=====================*/
+
+
+/*===================
+    12) Subscribe
+=====================*/
+
+
+/*===================
+    13) Contact
+=====================*/
+
+
+/*===================
+   14 ) Footer
+=====================*/
+
+
+
+
+
+
